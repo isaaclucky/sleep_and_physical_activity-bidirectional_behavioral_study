@@ -143,7 +143,6 @@ pip install -r requirements.txt
 
 * 📧 Email: [yishaktadele.nigatu@studenti.unitn.it](mailto:yishaktadele.nigatu@studenti.unitn.it)
 * 📧 Personal Email: [isaaclucky88@gmail.com](mailto:isaaclucky88@gmail.com)
-* 
 * 🎓 University of Trento, Italy
 
 
