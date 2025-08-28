@@ -1,0 +1,15 @@
+pandas==2.0.3
+numpy==1.24.4
+ipykernel
+matplotlib
+seaborn
+statsmodels
+scipy
+networkx
+itables
+cython
+openpyxl
+scikit-learn
+prophet
+PyWavelets
+semopy
